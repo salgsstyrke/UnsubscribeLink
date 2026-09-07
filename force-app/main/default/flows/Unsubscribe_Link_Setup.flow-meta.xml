@@ -1210,7 +1210,7 @@
             <defaultValue>
                 <elementReference>var_FinalRecord.Our_Organization__c</elementReference>
             </defaultValue>
-            <fieldText>Company Name</fieldText>
+            <fieldText>Organization or Company Name</fieldText>
             <fieldType>InputField</fieldType>
             <helpText>&lt;p&gt;When someone clicks the unsubscribe link they will see a confirmation page that includes your company&apos;s name.&lt;/p&gt;</helpText>
             <inputsOnNextNavToAssocScrn>UseStoredValues</inputsOnNextNavToAssocScrn>
