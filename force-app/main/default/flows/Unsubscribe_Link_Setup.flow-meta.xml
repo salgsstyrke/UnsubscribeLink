@@ -943,9 +943,7 @@
             <choiceReferences>Yes</choiceReferences>
             <choiceReferences>No</choiceReferences>
             <dataType>String</dataType>
-            <defaultValue>
-                <elementReference>var_FinalRecord.Confirmation_Page__c</elementReference>
-            </defaultValue>
+            <defaultSelectedChoiceReference>No</defaultSelectedChoiceReference>
             <fieldText>Do you want to include this confirmation page?</fieldText>
             <fieldType>DropdownBox</fieldType>
             <inputsOnNextNavToAssocScrn>UseStoredValues</inputsOnNextNavToAssocScrn>
